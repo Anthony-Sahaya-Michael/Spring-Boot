@@ -1,0 +1,5 @@
+com\example\query_annotation\QueryAnnotationApplication.class
+com\example\query_annotation\Repository\StudentRepository.class
+com\example\query_annotation\Service\StudentService.class
+com\example\query_annotation\Controller\StudentController.class
+com\example\query_annotation\Model\StudentModel.class
