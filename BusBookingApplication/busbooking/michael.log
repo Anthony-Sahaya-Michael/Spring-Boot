@@ -1,0 +1,3 @@
+12:41:13.491 INFO  c.e.b.c.AspectConfig$$SpringCGLIB$$0 - Inside Before Advice
+12:41:13.491 INFO  c.e.b.c.AspectConfig$$SpringCGLIB$$0 - Inside After Advice
+12:41:13.499 INFO  c.e.b.RequestResponse.LoggingFilter - Filter Logs: METHOD= GET; REQUESTURI= /welcome;REQUESTBODY= ; RESPONSE CODE= 200; RESPONSE BODY= Welcome dudes; TIME TAKEN= 12 
