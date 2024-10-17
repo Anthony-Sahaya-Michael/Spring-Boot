@@ -1,9 +1,13 @@
 /home/coder/project/workspace/springapp/src/main/java/com/example/springapp/NoAlbumWithIdDoundException.java
-/home/coder/project/workspace/springapp/src/main/java/com/example/springapp/AlbumNotFoundException.java
 /home/coder/project/workspace/springapp/src/main/java/com/example/springapp/SpringappApplication.java
 /home/coder/project/workspace/springapp/src/main/java/com/example/springapp/NoContentException.java
+/home/coder/project/workspace/springapp/src/main/java/com/example/springapp/model/Customer.java
+/home/coder/project/workspace/springapp/src/main/java/com/example/springapp/service/CustomerService.java
+/home/coder/project/workspace/springapp/src/main/java/com/example/springapp/repository/AlbumRepo.java
+/home/coder/project/workspace/springapp/src/main/java/com/example/springapp/AlbumNotFoundException.java
+/home/coder/project/workspace/springapp/src/main/java/com/example/springapp/repository/CustomerRepo.java
 /home/coder/project/workspace/springapp/src/main/java/com/example/springapp/AllExceptionHandler.java
 /home/coder/project/workspace/springapp/src/main/java/com/example/springapp/service/AlbumService.java
-/home/coder/project/workspace/springapp/src/main/java/com/example/springapp/repository/AlbumRepo.java
+/home/coder/project/workspace/springapp/src/main/java/com/example/springapp/controller/CustomerController.java
 /home/coder/project/workspace/springapp/src/main/java/com/example/springapp/controller/AlbumController.java
 /home/coder/project/workspace/springapp/src/main/java/com/example/springapp/model/Album.java

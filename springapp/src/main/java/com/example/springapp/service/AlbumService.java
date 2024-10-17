@@ -17,14 +17,12 @@ public class AlbumService {
     @Autowired
     private AlbumRepo albumRepo;
 
-
     public Album addAlbumInformation(Album album) {
-        if(album.getAlbumName().isEmpty()){
-            throw new AlbumNotFoundException("Not Found");
-        }
+        // if(album.getAlbumName().isEmpty()){
+        //     throw new AlbumNotFoundException("Not Found");
+        // }
         return albumRepo.save(album);
     }
-    
     
     public List<Album> getAllAlbumInformation() {
         List<Album> al = albumRepo.findAll();
@@ -33,7 +31,6 @@ public class AlbumService {
         }
         return al;
     }
-
 
     public Album getAllAlbumInformation(int albumId) {
         return albumRepo.findById(albumId).orElseThrow(() -> new NoAlbumWithIdDoundException("Album not found"));
