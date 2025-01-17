@@ -1,0 +1,13 @@
+/home/coder/project/workspace/springapp/src/main/java/com/examly/springapp/controller/TrainerController.java
+/home/coder/project/workspace/springapp/src/main/java/com/examly/springapp/service/TrainerServiceImpl.java
+/home/coder/project/workspace/springapp/src/main/java/com/examly/springapp/repository/ClassroomRepo.java
+/home/coder/project/workspace/springapp/src/main/java/com/examly/springapp/service/TrainerService.java
+/home/coder/project/workspace/springapp/src/main/java/com/examly/springapp/model/Trainer.java
+/home/coder/project/workspace/springapp/src/main/java/com/examly/springapp/model/Classroom.java
+/home/coder/project/workspace/springapp/src/main/java/com/examly/springapp/controller/ClassroomController.java
+/home/coder/project/workspace/springapp/src/main/java/com/examly/springapp/SpringappApplication.java
+/home/coder/project/workspace/springapp/src/main/java/com/examly/springapp/service/ClassroomServiceImpl.java
+/home/coder/project/workspace/springapp/src/main/java/com/examly/springapp/exception/DuplicateClassroomException.java
+/home/coder/project/workspace/springapp/src/main/java/com/examly/springapp/repository/TrainerRepo.java
+/home/coder/project/workspace/springapp/src/main/java/com/examly/springapp/exception/GlobalExceptionHandler.java
+/home/coder/project/workspace/springapp/src/main/java/com/examly/springapp/service/ClassroomService.java
