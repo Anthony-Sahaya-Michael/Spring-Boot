@@ -1,0 +1,7 @@
+/home/coder/project/workspace/springapp/src/main/java/com/example/springapp/controller/ApiController.java
+/home/coder/project/workspace/springapp/src/main/java/com/example/springapp/model/Category.java
+/home/coder/project/workspace/springapp/src/main/java/com/example/springapp/SpringappApplication.java
+/home/coder/project/workspace/springapp/src/main/java/com/example/springapp/service/ProductCategoryService.java
+/home/coder/project/workspace/springapp/src/main/java/com/example/springapp/model/Product.java
+/home/coder/project/workspace/springapp/src/main/java/com/example/springapp/repository/CategoryRepository.java
+/home/coder/project/workspace/springapp/src/main/java/com/example/springapp/repository/ProductRepository.java
